@@ -54,7 +54,7 @@ nav a {
     width: 250px;
 }
 .main-container{ 
-    min-height:70%;
+    min-height:700px;
     margin-bottom: 30px;
     display: flex;
     background-size: cover;
